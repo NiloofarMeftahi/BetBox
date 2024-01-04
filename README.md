@@ -4,6 +4,10 @@ Bet box is a simple betting game. The player can choose the down arrow to bet fo
 
 ![Alt Text](https://github.com/NiloofarMeftahi/BetButton/blob/595aa5ce4bbeb3aa2cfe2a1812745092eb1c76ce/readme_image/Screenshot%202024-01-04%20211141.png)
 
+![Alt Text](https://github.com/NiloofarMeftahi/BetBox/blob/cd05c7b9606bc1e80bdc7bd4a4b5830c585c5005/readme_image/Screenshot%202024-01-04%20213229.png)
+
+![Alt Text](https://github.com/NiloofarMeftahi/BetBox/blob/cd05c7b9606bc1e80bdc7bd4a4b5830c585c5005/readme_image/Screenshot%202024-01-04%20213251.png)
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
