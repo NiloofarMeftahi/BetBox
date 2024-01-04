@@ -1,3 +1,9 @@
+# **BET BOX**
+Bet box is a simple betting game. The player can choose the down arrow to bet for numbers lower than 50 or the up arrow for numbers above 50. 
+
+
+![Alt Text](https://github.com/NiloofarMeftahi/BetButton/blob/595aa5ce4bbeb3aa2cfe2a1812745092eb1c76ce/readme_image/Screenshot%202024-01-04%20211141.png)
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
