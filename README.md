@@ -1,5 +1,5 @@
 # **BET BOX**
-## Bet box is a simple betting game. The player can choose the down arrow to bet for numbers lower than 50 or the up arrow for numbers above 50. 
+Bet box is a simple betting game. The player can choose the down arrow to bet for numbers lower than 50 or the up arrow for numbers above 50. 
 
 
 
