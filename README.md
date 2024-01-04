@@ -1,4 +1,4 @@
-Bett Button
+**BET BOX**
 
 
 ![Alt Text](https://github.com/NiloofarMeftahi/BetButton/blob/595aa5ce4bbeb3aa2cfe2a1812745092eb1c76ce/readme_image/Screenshot%202024-01-04%20211141.png)
